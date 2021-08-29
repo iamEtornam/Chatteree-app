@@ -4,7 +4,7 @@ A chat mobile app written in Flutter
 
 <p align="center">
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/RegNex/Tasky/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/RegNex/Chatteree-app/graphs/commit-activity)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/RegNex/)
 [![ForTheBadge made-with-flutter](https://img.shields.io/badge/flutter-made%20with%20flutter-blue.svg)](https://flutter.dev)
 [![ForTheBadge ios-supported](https://img.shields.io/badge/IOS-IOS%20Supported-lightgrey.svg)](https://flutter.dev)
@@ -17,24 +17,24 @@ This project is an implementation of a Design i found on [twitter.com](https://t
 
 ## Art
 
-<img src="https://github.com/RegNex/Tasky/blob/main/screenshots/1.jpeg?raw=true" width="100%"  height="50%"/>
+<img src="https://github.com/RegNex/Chatteree-app/blob/main/screenshots/1.jpeg?raw=true" width="100%"  height="50%"/>
 <br>
-<img src="https://github.com/RegNex/Tasky/blob/main/screenshots/2.jpeg?raw=true" width="100%"  height="50%"/>
+<img src="https://github.com/RegNex/Chatteree-app/blob/main/screenshots/2.jpeg?raw=true" width="100%"  height="50%"/>
 <br>
    
 <tr>
-    <td><img align="left" src="https://github.com/RegNex/Tasky/blob/main/screenshots/screenshot_1.png?raw=true" width="200" height="400"/></td>
-    <td><img src="https://github.com/RegNex/Tasky/blob/main/screenshots/screenshot_2.png?raw=true" width="200" height="400"/></td> 
+    <td><img align="left" src="https://github.com/RegNex/Chatteree-app/blob/main/screenshots/screenshot_1.png?raw=true" width="200" height="400"/></td>
+    <td><img src="https://github.com/RegNex/Chatteree-app/blob/main/screenshots/screenshot_2.png?raw=true" width="200" height="400"/></td> 
 </tr>
 <br>
 <tr>
-    <td><img align="left" src="https://github.com/RegNex/Tasky/blob/main/screenshots/screenshot_3.png?raw=true" width="200" height="400"/></td>
-    <td><img src="https://github.com/RegNex/Tasky/blob/main/screenshots/screenshot_4.png?raw=true" width="200" height="400"/></td> 
+    <td><img align="left" src="https://github.com/RegNex/Chatteree-app/blob/main/screenshots/screenshot_3.png?raw=true" width="200" height="400"/></td>
+    <td><img src="https://github.com/RegNex/Chatteree-app/blob/main/screenshots/screenshot_4.png?raw=true" width="200" height="400"/></td> 
 </tr>
 <br>
 <tr>
-    <td><img align="left" src="https://github.com/RegNex/Tasky/blob/main/screenshots/screenshot_5.png?raw=true" width="200" height="400"/></td>
-    <td><img src="https://github.com/RegNex/Tasky/blob/main/screenshots/screenshot_6.png?raw=true" width="200" height="400"/></td> 
+    <td><img align="left" src="https://github.com/RegNex/Chatteree-app/blob/main/screenshots/screenshot_5.png?raw=true" width="200" height="400"/></td>
+    <td><img src="https://github.com/RegNex/Chatteree-app/blob/main/screenshots/screenshot_6.png?raw=true" width="200" height="400"/></td> 
 </tr>
 
 ## Getting Started
@@ -49,7 +49,7 @@ cd folder/to/clone-into/
 ```
 
 ```
-git clone https://github.com/RegNex/Tasky.git
+git clone https://github.com/RegNex/Chatteree-app.git
 ```
 
 Then
